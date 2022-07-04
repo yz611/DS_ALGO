@@ -2,9 +2,6 @@
 sorting algorithms
 """
 
-from heapq import merge
-
-
 def BubbleSort(customList):
     i = 0
     for i in range(len(customList) - 1):
